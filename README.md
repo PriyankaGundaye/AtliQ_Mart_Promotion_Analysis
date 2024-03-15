@@ -2,12 +2,12 @@
 ## Objective: ##
 Aim is to dissect the datasets concerning promotions conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By distinguishing successful and unsuccessful promotional strategies, to derive actionable insights crucial for future marketing endeavours.
 
-### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: ###
+### Tools Used: ###
 1. Power BI
 2. MySQL
 
 
-### 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐋𝐢𝐧𝐤𝐬: ### 
+### Important Link ### 
 Dashboard Link: [Retail Industry Promotion & Sales Analysis_FMCG_C9](https://app.powerbi.com/view?r=eyJrIjoiZmM0NmEwYTUtNTUwMS00YTEzLWJhNWUtZGI1ZGMyODlkNjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
