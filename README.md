@@ -2,6 +2,15 @@
 ## Objective: ##
 Aim is to dissect the datasets concerning promotions conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By distinguishing successful and unsuccessful promotional strategies, to derive actionable insights crucial for future marketing endeavours.
 
+### 𝐓𝐨𝐨𝐥𝐬 𝐔𝐬𝐞𝐝: ###
+1. Power BI
+2. MySQL
+
+
+### 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐋𝐢𝐧𝐤𝐬: ### 
+Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZmM0NmEwYTUtNTUwMS00YTEzLWJhNWUtZGI1ZGMyODlkNjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+
+
 ### Key Insights: ###
 1. 	Geographical Presence: Bengaluru, Chennai, and Hyderabad host the majority of our 50 stores, with Bengaluru leading the pack.
 2.  Campaign Performance: Diwali Campaign exhibited the highest Incremental Revenue, whereas Sankranti witnessed the highest Incremental Sold Units.
@@ -15,4 +24,7 @@ Aim is to dissect the datasets concerning promotions conducted by AtliQ Mart dur
 3.	Sankranti Approach: Continue prioritizing promotions that drive significant quantities sold during the Sankranti period.
 4.	Promotional Tactics: Extend the utilization of successful strategies such as "500 cashback" and "BOGOF" across diverse product categories. Explore alternative promotional offers to substitute "25% off" and mitigate losses.
 5.	Product Focus: Redirect focus towards Grocery, Home Care, and Appliances during festival periods, prioritizing them over Personal Care products for optimal results.
+
+
+
 
