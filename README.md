@@ -8,7 +8,7 @@ Aim is to dissect the datasets concerning promotions conducted by AtliQ Mart dur
 
 
 ### 𝐈𝐦𝐩𝐨𝐫𝐭𝐚𝐧𝐭 𝐋𝐢𝐧𝐤𝐬: ### 
-Dashboard Link: https://app.powerbi.com/view?r=eyJrIjoiZmM0NmEwYTUtNTUwMS00YTEzLWJhNWUtZGI1ZGMyODlkNjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9
+Dashboard Link:[Retail Industry Promotion & Sales Analysis_FMCG_C9] (https://app.powerbi.com/view?r=eyJrIjoiZmM0NmEwYTUtNTUwMS00YTEzLWJhNWUtZGI1ZGMyODlkNjc4IiwidCI6ImM2ZTU0OWIzLTVmNDUtNDAzMi1hYWU5LWQ0MjQ0ZGM1YjJjNCJ9)
 
 
 ### Key Insights: ###
