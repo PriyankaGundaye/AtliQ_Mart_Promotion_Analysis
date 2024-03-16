@@ -1,4 +1,4 @@
-# AtliQ_Mart_Promotion_Analysis
+# Retail_Industry_Promotion_&_Sale_Analysis
 ## Objective: ##
 Aim is to dissect the datasets concerning promotions conducted by AtliQ Mart during Diwali 2023 and Sankranti 2024. By distinguishing successful and unsuccessful promotional strategies, to derive actionable insights crucial for future marketing endeavours.
 
